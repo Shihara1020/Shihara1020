@@ -80,9 +80,9 @@
 <a href="https://www.linkedin.com/in/shihara-dewagedara-23109a275/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
   
-  <a href="eranjan1020@gmail.com" margin-left="50">
+  <!--<a href="eranjan1020@gmail.com" margin-left="50">
     <img align="center" alt="Shourya742 | Gmail" width="50" height="50" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;&nbsp;-->
   
 </p>
 
