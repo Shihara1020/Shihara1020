@@ -3,10 +3,8 @@
 <h1 align="center">Hi, I am Shihara Dewagedara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Computer Engineering undergraduate at the University of Peradeniya</h3>
 
-
 <p align="center">
   <em>
-    <!--Hello, I am Shihara<b>2018</b> undergraduate from <a href="https://qau.edu.pk/"> <b>Peradeniya University</a>.-->
   </em> 
   <br>
   
@@ -38,7 +36,6 @@
     <img src="https://skillicons.dev/icons?i=git,aws,css,docker,github,html,java,js,linux,mysql,postman,py,react,vscode,c&perline=14" />
   </a>
 </p>
-### 🔥 
 
 <hr>
 
@@ -52,10 +49,10 @@
 
 <!--  end-->
 
-<hr>
 
 
 
+<br><br>
 
 
 <!--- trophy (start) -->
@@ -81,6 +78,12 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/shihara-dewagedara-23109a275/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+
+  
+  <a href="eranjan1020@gmail.com" margin-left="50">
+    <img align="center" alt="Shourya742 | Gmail" width="50" height="50" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
