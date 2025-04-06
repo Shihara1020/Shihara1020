@@ -60,11 +60,7 @@
   </p>
 </div>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Shihara1020&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophies" width="90%"/>
-</div>
+
 
 <hr>
 
