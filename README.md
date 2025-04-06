@@ -15,7 +15,7 @@
   - 🎓 Computer Engineering undergraduate at University of Peradeniya
   - 💻 Passionate about software development and problem solving
   - 🌱 Currently learning new technologies and frameworks
-  - ⚡ Fun fact: I love gaming and anime!
+
 </div>
 
 <br>
