@@ -3,9 +3,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl2dDVoemI4c2hpZDM1c3dwc2NybDk2YndoMWcwcHR4OHJ2MW9oZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200px"/>
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+Aboard!+👋;I'm+Shihara+Dewagedara!;" />
-     <p align="center">
   </h1>
-
 </div>
 
 <!-- About Me Section -->
@@ -102,6 +100,6 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-  <p>Thanks for visiting! ❤️</p>
+  
+  <p>Thanks for visiting!</p>
 </div>
