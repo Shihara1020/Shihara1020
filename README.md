@@ -72,19 +72,6 @@
 
 ---
 
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/Shihara1020/your-cool-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shihara1020&repo=your-cool-project&theme=radical&border_radius=20&hide_border=true" />
-  </a>
-  <a href="https://github.com/Shihara1020/another-awesome-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shihara1020&repo=another-awesome-project&theme=radical&border_radius=20&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
