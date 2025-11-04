@@ -18,7 +18,7 @@
 
 ## 🌟 About Me
 
-<img align="right" width="180" height="180" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 - 🎓 &nbsp;**Computer Engineering undergraduate** at University of Peradeniya
 - 💻 &nbsp;**Passionate** about software development, AI, and creative problem solving
